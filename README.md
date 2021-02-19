@@ -1,2 +1,2 @@
-# Battle-of-neighbourhoods---week-3.1
+# Battle-of-neighbourhoods
 First part of week 3 assingment
